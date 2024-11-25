@@ -1,5 +1,5 @@
 # A-B-Testing-for-ENIAC  
-We get to run tests to see which web design is more appealing to make an actual purchase. 📈 📉
+We get to run X2 test to see which web design is more appealing to make an actual purchase. 📈 📉
 
 ## How it's looking
 Our favorite, but also imaginary, company ENIAC would like to know which of the FOUR web designs is the most effective 
